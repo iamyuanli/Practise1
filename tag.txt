@@ -1,6 +1,0 @@
-tag 1
-<<<<<<< HEAD
-modify
-=======
-fix some thing
->>>>>>> hot_fix_baseon_version_1
